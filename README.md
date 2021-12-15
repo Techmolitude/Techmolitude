@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mert</h1>
-<h3 align="center">17 yo Anmeteur Front-End Developer</h3>
+<h3 align="center">17 yo Ameteur Front-End Developer</h3>
 
 - 🔭 I’m currently working on **my career**
 
