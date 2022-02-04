@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertlabs&label=Profile%20views&color=8c11df&style=flat-square" alt="mertlabs" /> </p>
 
-- 🔭 I’m currently working on **Full-Stack developer**
+- 🔭 I’m currently working on become **Full-Stack developer**
 
 - 🌱 I’m currently learning **C**
 
