@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📫 How to reach me **hd6liz6jo@mozmail.com**
+- 📫 How to reach me **mertlabss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
