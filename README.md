@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">17 yo Ameteur Front-End Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertlabs&label=Profile%20views&color=8620d9&style=plastic" alt="mertlabs" /> </p>
 
