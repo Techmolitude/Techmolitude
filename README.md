@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hello World!!</h2>
+<h1 align="center">Hello World!!</h1>
 
 ###
 
-<h4 align="left">>whoami<br>>Mehmet Mert Odabaşı</h4>
+<h3 align="left">>whoami<br>>Mehmet Mert Odabaşı</h3>
 
 ###
 
@@ -63,5 +63,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Techmolitude/Techmolitude/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Techmolitude/count.svg?"  />
+</div>
 
 ###
