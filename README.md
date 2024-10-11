@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">>whoami<br>>Mehmet Mert Odabaşı<br>>pwd<br>/home/us<br>_</h3>
+<h3 align="left">>whoami<br>>Mehmet Mert Odabaşı<br>>pwd<br>>/home/us<br>>_</h3>
 
 ###
 
