@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working for become Full-Stack developer<br><br>🌱 I’m currently learning C programming language<br><br>📫 How to reach me business@mertodabasi.com</p>
+<p align="left">🔭 I’m currently working for become Full-Stack Developer<br><br>🌱 I’m currently learning C programming language<br><br>📫 How to reach me business@mertodabasi.com</p>
 
 ###
 
